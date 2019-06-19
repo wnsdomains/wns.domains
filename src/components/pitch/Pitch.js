@@ -90,7 +90,7 @@ class Pitch extends React.Component {
       <NameAnimation />
       <ValuePropContainer>
         WNS provides a secure and decentralized way of addressing the blockchain and offchain resources via {''} <br/>
-        <strong>user friendly, human-readable names.</strong>
+        <strong>human-readable names.</strong>
        </ValuePropContainer>
         <Explainer />
         <div className="card-container container">
