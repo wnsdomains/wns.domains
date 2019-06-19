@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'react-emotion'
-import ensIconLogo from '../../assets/ensIconLogo.svg'
+import ensIconLogo from '../../assets/wnsIconLogo.svg'
 import twitter from '../../assets/twitter.svg'
 import medium from '../../assets/medium.svg'
 import github from '../../assets/github.svg'

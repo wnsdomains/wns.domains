@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import '../globalStyles'
 import './index.css'
 import favicon from '../assets/favicon.ico'
-import twitter from '../assets/twitter.png'
+import twitter from '../assets/wnsback.png'
 
 const Layout = ({ children, data }) => (
   <Fragment>
