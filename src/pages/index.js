@@ -10,13 +10,11 @@ const IndexPage = () => (
     <Header />
     <Pitch />
     <CallToAction
-      href="https://gitter.im/ethereum/go-ethereum/name-registry"
+      href="https://gitter.im/Waves-Name-Service/community"
       linkText="Join Now"
     >
-      <h2>Get involved.</h2>
       <p>
-        For more information about WNS, or to help us develop and expand it,
-        join our Gitter channel.
+        Got a question? Do not hesitate to contact us
       </p>
     </CallToAction>
     <Footer />
