@@ -30,7 +30,7 @@ const Layout = ({ children, data }) => (
         },
         {
           property: 'og:image',
-          content: `https://ens.domains${twitter}`,
+          content: `https://wns.domains${twitter}`,
         },
       ]}
       link={[

@@ -1,6 +1,6 @@
-# ens.domains
+# wns.domains
 
-Landing page for ens.domains
+Landing page for wns.domains
 
 ## Install
 

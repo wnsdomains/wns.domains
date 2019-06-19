@@ -74,25 +74,25 @@ export default () => (
   <GetStarted>
     <h2>Get Started using ENS</h2>
     <div className="icons container">
-      <OutboundLink href="https://now.ens.domains" className="icon">
+      <OutboundLink href="https://now.wns.domains" className="icon">
         <div className="img-wrapper">
           <img src={wallet} />
         </div>
         <p>Name your wallet instantly</p>
       </OutboundLink>
-      <OutboundLink href="https://registrar.ens.domains" className="icon">
+      <OutboundLink href="https://registrar.wns.domains" className="icon">
         <div className="img-wrapper">
           <img src={register} />
         </div>
         <p>Register a .eth domain</p>
       </OutboundLink>
-      <OutboundLink href="https://manager.ens.domains/" className="icon">
+      <OutboundLink href="https://manager.wns.domains/" className="icon">
         <div className="img-wrapper">
           <img src={manage} />
         </div>
         <p>Manage your domains</p>
       </OutboundLink>
-      <OutboundLink href="https://docs.ens.domains/" className="icon">
+      <OutboundLink href="https://docs.wns.domains/" className="icon">
         <div className="img-wrapper">
           <img src={docs} />
         </div>
