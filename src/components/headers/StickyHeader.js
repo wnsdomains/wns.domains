@@ -11,7 +11,7 @@ import github from '../../assets/github.svg'
 import mediumBlack from './Medium_Black.svg'
 import twitterBlack from './Twitter_Black.svg'
 import githubBlack from './GitHub_Black.svg'
-
+import { OutboundLink } from 'gatsby-plugin-google-analytics'
 import { modulate } from '../../utils'
 
 const StickyHeader = styled('header')`
